@@ -1,4 +1,3 @@
 # codaname-denek
 Özkan Yılmazer
-Berkay Karakurt
-
+Berkay KaraHavaLLan
